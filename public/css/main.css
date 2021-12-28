@@ -1,0 +1,16 @@
+.main {
+    font-size: 30px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.welcome-text {
+    text-align: center;
+}
+
+body {
+    background: rgb(41,166,21);
+    background: linear-gradient(297deg, rgba(41,166,21,0.835171568627451) 0%, rgba(102,213,222,1) 35%, rgba(255,231,0,0.8183648459383753) 100%);
+}

@@ -1,0 +1,9 @@
+.idea/
+/vendor/bin/
+/vendor/gabordemooij/
+/vendor/composer/
+/vendor/symfony/
+/vendor/twig/
+/vendor/xuborx/auth/
+/vendor/xuborx/localization/
+/vendor/autoload.php

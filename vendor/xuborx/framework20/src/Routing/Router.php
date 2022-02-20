@@ -13,9 +13,6 @@ class Router
      */
     private static $routes = [];
 
-    /**
-     *
-     */
     public function __construct()
     {
         RouteHandler::getInstance(

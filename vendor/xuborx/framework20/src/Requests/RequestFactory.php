@@ -19,7 +19,7 @@ class RequestFactory
             return new PostRequest();
         }
 
-        return null;
+        return new Request();
     }
 
 }

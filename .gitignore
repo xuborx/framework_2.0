@@ -7,3 +7,4 @@
 /vendor/xuborx/auth/
 /vendor/xuborx/localization/
 /vendor/autoload.php
+/app/Controllers/DevController.php

@@ -3,12 +3,15 @@ declare(strict_types=1);
 
 namespace Xuborx\Framework\Requests;
 
-abstract class Request implements RequestInterface
+class Request implements RequestInterface
 {
 
     /**
      * @return array
      */
-    public abstract function parameters(): array;
+    public function parameters(): array
+    {
+        return $_REQUEST;
+    }
 
 }
